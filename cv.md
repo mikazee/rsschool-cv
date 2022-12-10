@@ -2,8 +2,8 @@
 -------------------------
 ## contacts:
 Email: meruertzm@gmail.com  
-Mobile phone: +7 707 899 4479_
-Telegram: @Mikazee_
+Mobile phone: +7 707 899 4479\
+Telegram: @Mikazee\
 Almaty, Kazakhstan
 ------------------------
 
@@ -16,31 +16,31 @@ My strengths: quick learning, responsibility, ability to work in a team and anal
 
 ## Education
 -----------
-- 2010-2015_ 
-Kazak-turkish high school, Pavlodar_
-- 2015-2019_
-Suleyman Demirel University,Almaty_
+- 2010-2015\
+Kazak-turkish high school, Pavlodar\
+- 2015-2019\
+Suleyman Demirel University,Almaty\
 Mathematics_
 
 ## Experience
 ------------
-- February 2022 — present_
+- February 2022 — present\
 Halyk Bank_
-Middle manager in Trade Finance Department_
-- September 2020 — February 2022_
+Middle manager in Trade Finance Department\
+- September 2020 — February 2022\
 Halyk Bank_
-Manager in Trade Finance Department_
-- February 2020 — September 2020_
-Jusan Bank_
-Specialist in lending to small and medium-sized businesses_
-- November 2019 — January 2020_
-Sber Solutons_
-HR Assistant_
-- September 2019 — October 2019_
-TOO Study Hub_
-Sales manager_
-- February 2019 — March 2019_
-Efes Kazakhstan_
+Manager in Trade Finance Department\
+- February 2020 — September 2020\
+Jusan Bank\
+Specialist in lending to small and medium-sized businesses\
+- November 2019 — January 2020\
+Sber Solutons\
+HR Assistant\
+- September 2019 — October 2019\
+TOO Study Hub\
+Sales manager\
+- February 2019 — March 2019\
+Efes Kazakhstan\
 HR Intern
 
 ## Skills
@@ -74,7 +74,7 @@ print("Minimum", smallest)
 
 ## Languages
 -------------
-- Kazakh - native_
-- Russian - native_
-- English - A2_
-- Turkish - A2_
+- Kazakh - native\
+- Russian - native\
+- English - A2\
+- Turkish - A2\
