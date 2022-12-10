@@ -1,2 +1,2 @@
 # rsschool-cv 
-https://github.com/mikazee/rsschool-cv.git 
+https://mikazee.github.io/rsschool-cv/cv
