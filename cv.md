@@ -17,28 +17,28 @@ My strengths: quick learning, responsibility, ability to work in a team and anal
 ## Education
 -----------
 - 2010-2015\
-Kazak-turkish high school, Pavlodar\
+Kazak-turkish high school, Pavlodar
 - 2015-2019\
 Suleyman Demirel University,Almaty\
-Mathematics_
+Mathematics
 
 ## Experience
 ------------
 - February 2022 — present\
-Halyk Bank_
-Middle manager in Trade Finance Department\
+Halyk Bank\
+Middle manager in Trade Finance Department
 - September 2020 — February 2022\
-Halyk Bank_
-Manager in Trade Finance Department\
+Halyk Bank\
+Manager in Trade Finance Department
 - February 2020 — September 2020\
 Jusan Bank\
-Specialist in lending to small and medium-sized businesses\
+Specialist in lending to small and medium-sized businesses
 - November 2019 — January 2020\
 Sber Solutons\
-HR Assistant\
+HR Assistant
 - September 2019 — October 2019\
 TOO Study Hub\
-Sales manager\
+Sales manager
 - February 2019 — March 2019\
 Efes Kazakhstan\
 HR Intern
@@ -51,6 +51,7 @@ HR Intern
 
 ## Code example
 -------------
+```
 largest = None
 smallest = None
 while True:
@@ -71,7 +72,7 @@ while True:
         smallest=num
 print("Maximum", largest)
 print("Minimum", smallest)
-
+```
 ## Languages
 -------------
 - Kazakh - native\
