@@ -48,6 +48,7 @@ HR Intern
 - HTML
 - CSS
 - Python (basic)
+- 
 
 ## Code example
 -------------
