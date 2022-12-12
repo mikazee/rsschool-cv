@@ -75,7 +75,7 @@ print("Minimum", smallest)
 ```
 ## Languages
 -------------
-- Kazakh - native\
-- Russian - native\
-- English - A2\
-- Turkish - A2\
+- Kazakh - native
+- Russian - native
+- English - A2
+- Turkish - A2
